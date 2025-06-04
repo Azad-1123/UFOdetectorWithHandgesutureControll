@@ -18,7 +18,7 @@ ________________________________________________________________________________
 
 
    //you can download the processing application from this link "https://processing.org/download"//
-   //you should connect the code in pc while running this .pde file
+   //you should connect the cord wire of arduino  in pc while running this .pde file
 
    
 6.For handgesture control of the servo You can use the  "sketch_jul30d.ino" from the handgesture folder
