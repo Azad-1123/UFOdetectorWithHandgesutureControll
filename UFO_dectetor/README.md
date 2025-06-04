@@ -5,9 +5,15 @@ ________________________________________________________________________________
  
 
    //You can refer the schematics also!
-3. You should place the SONAR sensor on top of the servo motor.(Can use the glue from the glue stick)
-4. For the proper allignment of servo and the sonar you can run the code on arduino "calibration.ino" from calibration folder ,And set the correct allignment for the precised accurate reading of sonar
+2. You should place the SONAR sensor on top of the servo motor.(Can use the glue from the glue stick).
+
+  
+3. For the proper allignment of servo and the sonar you can run the code on arduino "calibration.ino" from calibration folder ,And set the correct allignment for the precised accurate reading of sonar.
+
+
 4.Run the "ufo_dectetor.ino" code from the ufo_dectetor folder.
+
+
 5.Download the Processing software for run and visualize  the Radar java code "radar.pde"
 
 
@@ -16,6 +22,8 @@ ________________________________________________________________________________
 
    
 6.For handgesture control of the servo You can use the  "sketch_jul30d.ino" from the handgesture folder
+
+
 7.From the cpp folder run the test.py from the visual studio code or You can the command prompt to run the python code 
 
 
